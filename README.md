@@ -1,73 +1,41 @@
-# Welcome to your Lovable project
+🌐 Praveen Kumar – Frontend Developer Portfolio
 
-## Project info
+Welcome to my personal portfolio! I'm Praveen Kumar, a passionate and aspiring Frontend Developer with a strong foundation in web development. This portfolio showcases my skills, projects, and journey in the world of coding and technology.
 
-**URL**: https://lovable.dev/projects/b81ac0b3-f6c8-457f-ae2a-246614a8fdc6
+🚀 Live Demo
 
-## How can I edit this code?
+Explore my portfolio live at:
+👉 https://portfolio-praveen-kumar.vercel.app/
 
-There are several ways of editing your application.
+🛠️ Features
 
-**Use Lovable**
+Responsive Design: Optimized for both desktop and mobile devices, ensuring a seamless user experience across all screen sizes.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b81ac0b3-f6c8-457f-ae2a-246614a8fdc6) and start prompting.
+Interactive UI: Engaging animations and transitions built with React and Tailwind CSS.
 
-Changes made via Lovable will be committed automatically to this repo.
+Project Showcases: Detailed presentations of my personal and collaborative projects, demonstrating my skills and creativity.
 
-**Use your preferred IDE**
+Contact Form: A functional contact form allowing visitors to reach out directly through the website.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+⚙️ Technologies Used
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Frontend: React, Tailwind CSS
 
-Follow these steps:
+Backend: Not applicable (static site)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Deployment: Vercel
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🧪 Projects Featured
 
-# Step 3: Install the necessary dependencies.
-npm i
+Interactive Resume Builder: A tool that allows users to create and download professional resumes.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Rajasthan Ri Bata: A cultural platform showcasing the rich heritage of Rajasthan.
 
-**Edit a file directly in GitHub**
+Countries Data App: An application displaying information about countries worldwide.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+YouTube Summary Generator: An AI-powered tool that generates summaries for YouTube videos.
 
-**Use GitHub Codespaces**
+📬 Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b81ac0b3-f6c8-457f-ae2a-246614a8fdc6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Feel free to reach out to me through the contact form on the website or via email at:
+📧 praveenkaswan1023@gmail.com
