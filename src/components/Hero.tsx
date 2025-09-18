@@ -92,7 +92,7 @@ export const Hero = () => {
               >
                 <div className="w-full h-full rounded-full overflow-hidden bg-gradient-to-br from-muted to-card">
                   <img 
-                    src="/uploads/de0a44a3-bce2-4186-85d3-b39ed1c1bbcb.png" 
+                    src="/uploads/main.png" 
                     alt="Praveen Kumar - Frontend Developer"
                     className="w-full h-full object-cover object-center filter brightness-110 contrast-105"
                   />
